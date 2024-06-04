@@ -6,10 +6,10 @@ the project has several rooutes for CRUD operations, the database is mongoDB atl
 Basically you can create courses and universities and associate, modify or delete them.
 
 # courses routes
-/create-course?name=name&type=type to create a course
-/modify-course/:id to modify a course by id 
-/delete-course/:id to delete a course by id
-/filter-courses to filter a course by name and type
+/create-course?name=name&type=type to create a course <br>
+/modify-course/:id to modify a course by id <br>
+/delete-course/:id to delete a course by id <br>
+/filter-courses to filter a course by name and type <br>
 
 # universities
 /create-university?name=name&phone=phone to create a university
