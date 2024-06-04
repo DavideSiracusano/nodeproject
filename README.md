@@ -12,8 +12,8 @@ Basically you can create courses and universities and associate, modify or delet
 /filter-courses to filter a course by name and type <br>
 
 # universities
-/create-university?name=name&phone=phone to create a university
-/university/:universityName/courses to see a university and the courses it offers
-/university/:universityName/courses/:courseName to associate a course to a university by name
-/modify-university/:id to modify a university by id
-/delete-university/:id to delete a university by id
+/create-university?name=name&phone=phone to create a university <br>
+/university/:universityName/courses to see a university and the courses it offers <br>
+/university/:universityName/courses/:courseName to associate a course to a university by name <br>
+/modify-university/:id to modify a university by id <br>
+/delete-university/:id to delete a university by id <br>
